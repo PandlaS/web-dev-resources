@@ -313,6 +313,7 @@ This is a complete web development resource you need to build your next project.
 - [Canva](https://www.canva.com/create/resumes/) - With Canva's free resume builder, applying for your dream job is easy and fast. Choose from hundreds of free.
 - [novoresume](https://novoresume.com) - Make a perfect resume in 2020 and get your dream job using the free resume builder. Select a template. Personalize it.
 - [RX-Resume](https://rx-resume.web.app) - Easily build your resume.
+- [MyResumeStar](https://myresumestar.com)-They have good templates as well as a cover letter builder along with a resume builder.
 
 ### 📦 OTHERS
 
